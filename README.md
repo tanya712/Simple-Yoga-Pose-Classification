@@ -39,5 +39,9 @@ Confusion Matrix and Classification Report
 
 Real-time prediction for uploaded images via web interface
 
+![Screenshot (144)](https://github.com/user-attachments/assets/baac8dbf-1cc2-4c21-846a-6edb568fe94a)
+
+![Screenshot (143)](https://github.com/user-attachments/assets/1b336017-34aa-462b-addd-1edcbf226993)
+
 ![image](https://github.com/user-attachments/assets/e047b817-3c78-470b-9757-a8e866e9d435)
 
