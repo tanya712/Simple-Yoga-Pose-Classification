@@ -12,8 +12,6 @@ LINK TO DATASET- https://www.kaggle.com/datasets/tr1gg3rtrash/yoga-posture-datas
 
 ✅ Clean and responsive Flask web app for easy image uploads
 
-✅ Integrated with a yoga-themed UI template
-
 ✅ Displays training graphs and confusion matrix for evaluation
 
 📁 Dataset
@@ -28,7 +26,7 @@ Python, TensorFlow / Keras, NumPy, OpenCV
 
 Flask (for backend deployment)
 
-HTML, CSS, Bootstrap (YOOGA template for frontend)
+HTML, CSS
 
 Matplotlib, Seaborn (for evaluation graphs)
 
