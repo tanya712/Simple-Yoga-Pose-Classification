@@ -1,6 +1,8 @@
 🧘‍♀️ Yoga Pose Classification using Deep Learning
 This project is a deep learning-based image classification system designed to identify yoga poses from images. The model is trained to recognize 47 distinct yoga postures, displaying results in both English and Sanskrit for cultural authenticity. It is deployed through a beautifully styled web application using a yoga-themed template.
 
+LINK TO DATASET- https://www.kaggle.com/datasets/tr1gg3rtrash/yoga-posture-dataset
+
 🔍 Features
 ✅ Classifies 47 yoga poses with good accuracy
 
