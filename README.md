@@ -38,3 +38,6 @@ Training and Validation Accuracy/Loss Graphs
 Confusion Matrix and Classification Report
 
 Real-time prediction for uploaded images via web interface
+
+![image](https://github.com/user-attachments/assets/e047b817-3c78-470b-9757-a8e866e9d435)
+
